@@ -9,7 +9,7 @@
       }
     ],
     "intro": {
-      "text": "training.md"
+      "text": "start.md"
     },
     "finish": {
       "text": "training.md"
@@ -19,6 +19,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "kubernetes"
+    "imageid": "kubernetes-cluster-3node-running"
   }
 }
