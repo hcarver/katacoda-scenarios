@@ -4,8 +4,8 @@
   "courses": [
     {
       "pathway_id": "whale",
-      "id": "sw/training",
-      "course_id": "training",
+      "id": "sw",
+      "course_id": "sw",
       "title": "Training Session",
       "description": "Training"
     }
