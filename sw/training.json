@@ -1,0 +1,24 @@
+{
+  "title": "Training with Skiller Whale",
+  "description": "",
+  "details": {
+    "steps": [
+      {
+        "title": "Skiller Whale Training",
+        "text": "training.md"
+      }
+    ],
+    "intro": {
+      "text": "training.md"
+    },
+    "finish": {
+      "text": "training.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "kubernetes"
+  }
+}

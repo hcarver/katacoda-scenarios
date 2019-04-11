@@ -1,0 +1,13 @@
+{
+  "title": "Training with Skiller Whale",
+  "description": "",
+  "courses": [
+    {
+      "pathway_id": "whale",
+      "id": "sw/training",
+      "course_id": "training",
+      "title": "Training Session",
+      "description": "Training"
+    }
+  ]
+}
