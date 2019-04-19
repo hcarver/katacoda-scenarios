@@ -16,7 +16,9 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "editor-terminal",
+    "showdashboard": true,
+    "dashboards": [{"name": "Port 80", "port": 80}]
   },
   "backend": {
     "imageid": "kubernetes-cluster-3node-running"
